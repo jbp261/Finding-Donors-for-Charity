@@ -23,16 +23,16 @@ This project uses the following software and Python libraries:
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [matplotlib](http://matplotlib.org/)
 
-I will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
+You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
 If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
 
-## Starting the Project
+## Project Editing
 
 This project contains three files:
 
-- `finding_donors.ipynb`: This is the main file where you will be performing your work on the project.
-- `census.csv`: The project dataset. You'll load this data in the notebook.
-- `visuals.py`: A Python file containing visualization code that is run behind-the-scenes. Do not modify
+- `finding_donors.ipynb`: This is the main file where I will be performing my work on the project.
+- `census.csv`: The project dataset. I'll load this data in the notebook.
+- `visuals.py`: A Python file containing visualization code that is run behind-the-scenes.
 
 In the Terminal or Command Prompt, navigate to the folder containing the project files, and then use the command `jupyter notebook finding_donors.ipynb` to open up a browser window or tab to work with your notebook. Alternatively, you can use the command `jupyter notebook` or `ipython notebook` and navigate to the notebook file in the browser window that opens. Follow the instructions in the notebook and answer each question presented to successfully complete the project.
